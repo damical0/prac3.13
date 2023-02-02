@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+main.tres{
+    text-align: center;
+}
+input.entrar{
+    background-color: orange;
+    width: 150px;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+}
+span{
+    text-decoration: underline;
+}
+input.cuenta{
+    background-color: green;    
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    height: 30px;
+}
